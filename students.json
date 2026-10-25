@@ -1,0 +1,14 @@
+[
+    {
+        "id": "St101",
+        "name": "Najeeba",
+        "age": 20,
+        "marks": 60.0
+    },
+    {
+        "id": "ST102",
+        "name": "priya",
+        "age": 19,
+        "marks": 90.0
+    }
+]
